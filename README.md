@@ -1,1 +1,1 @@
-simple shel
+simple shell
